@@ -8,4 +8,4 @@ This linter plugin for [SublimeLinter](http://sublimelinter.com) provides an int
 
 With Package Control: search and install for "SublimeLinter-contrib-clojure-syntax-check"
 
-Copyright © Leonid Shevtsov 2014.
+Copyright © Leonid Shevtsov 2014
